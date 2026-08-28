@@ -1,1 +1,1 @@
-- Load and import the JFR config into the JMC (java Mission Control).
+- Load and import the JFR config into the JMC (java Mission Control) to inspect the JVM.
